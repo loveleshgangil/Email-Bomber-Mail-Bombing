@@ -1,5 +1,3 @@
-figlet Email-Bomber
-
 import smtplib
 
 email_to_bomb_on = input("Enter the email to bomb on: ")
